@@ -1,0 +1,9 @@
+Netfflix
+
+use case:Rating
+
+group members
+Muhammadd Faisall(f2016065006)
+Bilal Ahma(f2016065059)
+Muhammad Afaq Saeed(f2016065053)
+Hafiz Muhammad Ammar(f2016065112)
