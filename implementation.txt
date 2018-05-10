@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main ()
+{
+
+int rating;
+
+cout << "Enter the average rating of a movie (1 - 10): ";
+cin >> rating;
+
+if (rating == 10||9)
+    {
+    cout<< "The movie is great. Go and seeit!"<< endl;
+    }
+else
+{
+cout<<"Sorry, the rating is not valid."<<endl;
+}
+return 0;
+}
