@@ -1,0 +1,8 @@
+#define CATCH_CONFIG_MAIN
+#include "catch.hpp"
+
+
+TEST_CASE( "netflex", "[massages]" ) 
+{
+    REQUIRE( input(1-10) == "The movie is great. Go and seeit!");
+}
